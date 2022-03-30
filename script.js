@@ -1,3 +1,4 @@
+//Function that takes in user input and prints out some text
 function userInput() {	
  var email = document.getElementById("email").value;
   var fname = document.getElementById("fname").value;
